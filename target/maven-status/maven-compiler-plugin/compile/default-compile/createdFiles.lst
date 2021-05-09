@@ -1,0 +1,14 @@
+com\bosko\sfgrestdocsexample\SfgRestdocsExampleApplication.class
+com\bosko\sfgrestdocsexample\web\model\BeerDto.class
+com\bosko\sfgrestdocsexample\web\controller\MvcExceptionHandler.class
+com\bosko\sfgrestdocsexample\bootstrap\BeerLoader.class
+com\bosko\sfgrestdocsexample\web\mappers\BeerMapperImpl.class
+com\bosko\sfgrestdocsexample\web\mappers\DateMapper.class
+com\bosko\sfgrestdocsexample\web\model\BeerDto$BeerDtoBuilder.class
+com\bosko\sfgrestdocsexample\web\model\BeerStyleEnum.class
+com\bosko\sfgrestdocsexample\web\controller\BeerController.class
+com\bosko\sfgrestdocsexample\domain\Beer.class
+com\bosko\sfgrestdocsexample\web\model\BeerPagedList.class
+com\bosko\sfgrestdocsexample\web\mappers\BeerMapper.class
+com\bosko\sfgrestdocsexample\domain\Beer$BeerBuilder.class
+com\bosko\sfgrestdocsexample\repositories\BeerRepository.class
